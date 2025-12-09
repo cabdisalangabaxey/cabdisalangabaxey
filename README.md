@@ -70,6 +70,12 @@ Git • GitHub • Docker • VS Code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdisalangabaxey&layout=compact&theme=radical" height="160"/>
 </p>
 
+### 🧠 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,python,mongodb,mysql,git,github,vscode" />
+</p>
+
 ---
 
 ## 🌐 Connect

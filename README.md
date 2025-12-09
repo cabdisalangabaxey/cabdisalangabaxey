@@ -91,6 +91,9 @@ Git • GitHub • Docker • VS Code
   <img src="https://komarev.com/ghpvc/?username=cabdisalangabaxey&color=blue&style=flat">
 </p>
 
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=cabdisalangabaxey&label=Profile%20Views&color=blue&style=flat" />
+
 
 ### 📫 Contact Me
 <p align="left">

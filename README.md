@@ -129,6 +129,9 @@ Git • GitHub • Docker • VS Code
 
 
 ---
+## 📈 GitHub Activity Graph
+[![Abdisalam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cabdisalangabaxey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h3 align="center">🖤 “Hack the code. Build the future.” 🖤</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

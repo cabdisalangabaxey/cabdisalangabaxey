@@ -78,10 +78,29 @@ Git • GitHub • Docker • VS Code
 
 ---
 
-## 🌐 Connect
-- 📧 cabdisalangabaxey@gmail.com  
--  
+### 🔥 Featured Projects
+- 🚀 **Hacker-Style Portfolio** — Modern dark UI + animations  
+- ⚡ **Full-Stack E-commerce API** (Node.js + MongoDB)  
+- 🛠️ **Real-time Chat App** (Socket.io + React)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cabdisalangabaxey&color=blue&style=flat">
+</p>
+
+
+### 📫 Contact Me
+<p>
+  <a href="mailto:cabdisalaan@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
 
 ---
 
 <h3 align="center">🖤 “Hack the code. Build the future.” 🖤</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+---
+
+
+

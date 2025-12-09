@@ -1,8 +1,9 @@
-<p align="center">
+<h1 align="center">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/cabdisalangabaxey/cabdisalangabaxey/main/ChatGPT%20Image%20Dec%209%2C%202025%2C%2003_31_03%20PM.png" width="200">
 </p>
-
-<h1 align="center">👾 Cabdisalaan Gabaxey</h1>
+  Cabdisalaan Gabaxey
+</h1>
 <h3 align="center">⚡ Full-Stack Developer | Hacker-Style Creator</h3>
 
 ---

@@ -2,15 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?color=00F&size=23&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cyber+Enthusiast;Hacker-Style+Creator;Building+Modern+Web+Apps" />
 </p>
 
-<h1 align="center">
-  <h6 align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/cabdisalangabaxey/cabdisalangabaxey/main/ChatGPT%20Image%20Dec%209%2C%202025%2C%2003_31_03%20PM.png" width="200">
-</h6>
-  Cabdisalaan Gabaxey
-</h1>
+</p>
+
+<h1 align="center">Cabdisalaan Gabaxey</h1>
 <h3 align="center">⚡ Full-Stack Developer | Hacker-Style Creator</h3>
 
-### 🚀 Tech Stack
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -18,6 +19,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-00a2ff?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
   <br/>
@@ -37,7 +39,6 @@
   <img src="https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=database&logoColor=black"/>
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -48,7 +49,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
 ### **Frontend**
 React • Next.js • JavaScript • TypeScript • TailwindCSS  
@@ -70,79 +71,81 @@ Git • GitHub • Docker • VS Code
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cabdisalangabaxey&layout=compact&theme=radical" height="160"/>
 </p>
 
+---
 
-
-### 🧠 Skills
-
-<p>
+## 🧠 Skills  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,python,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 - 🚀 **Hacker-Style Portfolio** — Modern dark UI + animations  
 - ⚡ **Full-Stack E-commerce API** (Node.js + MongoDB)  
 - 🛠️ **Real-time Chat App** (Socket.io + React)
 
 <p align="center">
-------Hada Ma diyaarsano Insha Allah dhawaan waa la diyaarinaa -------------------
-    <br/>
+------Hada Ma Diyaarsano — Insha Allah Dhawaan Waa La Diyaarinayaa ------
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=cabdisalangabaxey&color=blue&style=flat">
 </p>
 
+---
+
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/cabdisalangabaxey/cabdisalangabaxey/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/cabdisalangabaxey/cabdisalangabaxey/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
+---
 
-### 📫 Contact Me
-<p align="left">
+## 📫 Contact Me
 
-  <!-- Gmail -->
+<p align="center">
+
   <a href="mailto:cabdisalaangabaxey@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 
-  <!-- Twitter -->
   <a href="https://twitter.com/">
     <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdisalam-gabaxey-681567399/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/techsalam84/">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 
-  <!-- WhatsApp -->
   <a href="https://wa.me/252616098887?text=Hello%2C%20I%20got%20your%20contact%20from%20GitHub.%20I%E2%80%99d%20like%20to%20connect%20with%20you.">
     <img src="https://skillicons.dev/icons?i=whatsapp" width="40"/>
   </a>
 
-  <!-- Phone Direct Call -->
   <a href="tel:+252616098887">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40"/>
   </a>
 
 </p>
 
-## 💬 Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
-## 📈 GitHub Activity Graph
-[![Abdisalam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cabdisalangabaxey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cabdisalangabaxey&theme=react-dark"/>
+</p>
 
 <h3 align="center">🖤 “Hack the code. Build the future.” 🖤</h3>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
----
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>

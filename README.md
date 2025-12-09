@@ -89,11 +89,40 @@ Git • GitHub • Docker • VS Code
 
 
 ### 📫 Contact Me
-<p>
-  <a href="mailto:cabdisalaan@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<p align="left">
+
+  <!-- Gmail -->
+  <a href="mailto:cabdisalaangabaxey@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abdisalam-gabaxey-681567399/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/techsalam84/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/252616098887?text=Hello%2C%20I%20got%20your%20contact%20from%20GitHub.%20I%E2%80%99d%20like%20to%20connect%20with%20you.">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="40"/>
+  </a>
+
+  <!-- Phone Direct Call -->
+  <a href="tel:+252616098887">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40"/>
+  </a>
+
 </p>
+
 
 ---
 

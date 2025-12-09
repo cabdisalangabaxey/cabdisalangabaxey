@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F&size=23&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cyber+Enthusiast;Hacker-Style+Creator;Building+Modern+Web+Apps" />
+</p>
+
 <h1 align="center">
   <h6 align="center">
   <img src="https://raw.githubusercontent.com/cabdisalangabaxey/cabdisalangabaxey/main/ChatGPT%20Image%20Dec%209%2C%202025%2C%2003_31_03%20PM.png" width="200">

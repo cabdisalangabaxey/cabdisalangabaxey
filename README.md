@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/vxWg50p/hacker-banner-dark.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/cabdisalangabaxey/cabdisalangabaxey/main/ChatGPT%20Image%20Dec%209%2C%202025%2C%2003_31_03%20PM.png" width="200">
 </p>
 
 <h1 align="center">👾 Cabdisalaan Gabaxey</h1>

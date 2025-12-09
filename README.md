@@ -127,6 +127,9 @@ Git • GitHub • Docker • VS Code
 
 </p>
 
+## 💬 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 ## 📈 GitHub Activity Graph

@@ -119,6 +119,10 @@ Git • GitHub • Docker • VS Code
   <a href="https://www.instagram.com/techsalam84/">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://skillicons.dev/icons?i=discord" width="40"/>
+  </a>
+
 
   <a href="https://wa.me/252616098887?text=Hello%2C%20I%20got%20your%20contact%20from%20GitHub.%20I%E2%80%99d%20like%20to%20connect%20with%20you.">
     <img src="https://skillicons.dev/icons?i=whatsapp" width="40"/>

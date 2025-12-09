@@ -83,8 +83,8 @@ Git • GitHub • Docker • VS Code
 - ⚡ **Full-Stack E-commerce API** (Node.js + MongoDB)  
 - 🛠️ **Real-time Chat App** (Socket.io + React)
 
-------Hada Ma diyaarsano Insha Allah dhawaan waa la diyaarinaa -------------------
 <p align="center">
+------Hada Ma diyaarsano Insha Allah dhawaan waa la diyaarinaa -------------------
   <img src="https://komarev.com/ghpvc/?username=cabdisalangabaxey&color=blue&style=flat">
 </p>
 

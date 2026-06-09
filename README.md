@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Cabdisalaan Gabaxey</h1>
-<h3 align="center">⚡Zamzam  | Hacker-Style Creator</h3>
+<h3 align="center">⚡Full Stack Developer  | Hacker-Style Creator</h3>
 
 ---
 

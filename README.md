@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/cabdisalangabaxey/cabdisalangabaxey/main/ChatGPT%20Image%20Dec%209%2C%202025%2C%2003_31_03%20PM.png" width="200">
 </p>
 
-<h1 align="center">Nasro Xasan Nuuni, haddii xiddigaha la tirin karo, qalbigaygu ma tirin karo inta jeer ee uu magacaaga xusay. Haddii dayaxu iftiin leeyahay, adigu waxaad leedahay dareen qalbi iftiimiya. Adigaa ah bogga ugu quruxda badan ee qalbigaygu akhriyo habeen kasta. ✨❤️/h1>
+<h1 align="center">Nasro Xasan Nuuni, haddii xiddigaha la tirin karo, qalbigaygu ma tirin karo inta jeer ee uu magacaaga xusay. Haddii dayaxu iftiin leeyahay, adigu waxaad leedahay dareen qalbi iftiimiya. Adigaa ah bogga ugu quruxda badan ee qalbigaygu akhriyo habeen kasta. ✨❤️</h1>
 <h3 align="center">⚡Zamzam  | Hacker-Style Creator</h3>
 
 ---
